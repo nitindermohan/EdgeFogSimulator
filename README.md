@@ -1,4 +1,4 @@
-**This respository hosts the code for the Edge-Fog cloud simulator. 
+**This respository hosts the code for the Edge-Fog cloud simulator.** 
 
 The simulator accompanies the following publications
 
